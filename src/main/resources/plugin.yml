@@ -1,6 +1,0 @@
-name: DaveLib
-author: David Hickey
-description: Collection of handy utilities I use when making plugins.
-version: maven-version-number
-
-main: davidhickey.davelib.DaveLibPlugin
